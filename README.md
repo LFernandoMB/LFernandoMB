@@ -26,7 +26,7 @@
     <div style="display: inline_block"><br>
     <br><a href="https://www.instagram.com/l.fernandoof/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
     <a href="https://www.linkedin.com/in/luis-fernando-m-bezerra-37b175b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=whitee" target="_blank"></a> 
+    <a href="https://lfernandomb.github.io/Portifolio/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=whitee" target="_blank"></a> 
 </div>
  
   ![Snake animation](https://github.com/LFernandoMB/LFernandoMB/blob/output/github-contribution-grid-snake.svg)
@@ -42,5 +42,8 @@
 ![about_04](https://user-images.githubusercontent.com/91624923/150598806-374d7404-d0c3-4cb5-9053-4db69244f805.jpg)  
  
 ![px](https://user-images.githubusercontent.com/91624923/150600135-fa304634-d456-4c87-b151-63f0d6b6e9fa.png)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=LFernandoMB&repo=LFernandoMB&theme=react)](https://github.com/LFernandoMB/LFernandoMB)
+  
+  <h1> My Website Portifolio 💻 </h1> 
+  
+  <a href="https://lfernandomb.github.io/Portifolio/">Click Here!</a>
+  
