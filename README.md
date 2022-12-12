@@ -38,13 +38,11 @@
 
 ![banner-01](https://user-images.githubusercontent.com/91624923/150597971-1a7ae1f1-521b-4afd-b15c-33422d924204.jpg)
   
- <h1> Here are the people and things I love the most!! helped me get here and help me go further and further! </h1>
+ <h1> Here are the people who make me work harder and harder!! Helped me get here and help me go further and further! </h1>
 
 ![about_04](https://user-images.githubusercontent.com/91624923/150598806-374d7404-d0c3-4cb5-9053-4db69244f805.jpg)  
- 
-![px](https://user-images.githubusercontent.com/91624923/150600135-fa304634-d456-4c87-b151-63f0d6b6e9fa.png)
   
-  <h1> My Website Portifolio 💻 </h1> 
+ <h1> My Website Portifolio 💻 </h1> 
   
-  <a href="https://lfernandomb.github.io/Portifolio/">Click Here!</a>
+ <a href="https://lfernandomb.github.io/Portifolio/">Click Here!</a>
   
