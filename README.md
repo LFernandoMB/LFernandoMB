@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>My name is Luis Fernando! Welcome to my GitHub...</h1>
+## My name is Luis Fernando! 😅 Welcome to my GitHub...
 
 <div  align="center">
   <a href="https://github.com/LFernandoMB">
@@ -8,23 +8,34 @@
   <img height="180em" width="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFernandoMB&theme=react" />
   <img height="180em" width="350" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LFernandoMB&theme=react" />
 </div>
-
-<h1>Some languages I work with:</h1>
   
-<div  align="center">  
-   <div style="display: inline_block"><br>
-     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-     <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-     <img align="center" alt="Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
-     <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
-</div>
+## 🎮🐍 Some Activities and Progress
+![Snake animation](https://github.com/LFernandoMB/LFernandoMB/blob/output/github-contribution-grid-snake.svg)
 
-  ## 🎮🐍 Some Activities and Progress
-  ![Snake animation](https://github.com/LFernandoMB/LFernandoMB/blob/output/github-contribution-grid-snake.svg)
+## 🛠️ Skills and Personal Development
+## Hard Skills
+  - Python
+    - Django - Flask - Streamlit - PyQt5 - Pandas - WebScraping - AI - Machine Learning - Interaction with databases: MySQL, Firebase, Postgres
+  - Java
+    - Spring Boot - Stream API - JavaFX - Interaction with databases: MySQL, Firebase, Postgres
+  - C++
+    - Arduino - Microcontrollers - MySQL - Interaction with databases: MySQL, Firebase, Postgres
+  - C#
+    - Windows Forms Appication - Interaction with databases: MySQL, Firebase, Postgres
+  - JavaScript
+    - NodeRed - Websites Functions
+  - HTML and CSS
+    - Websites
+  - Tools Already Used
+    - Docker - Apache Kafka - Postman - Microsservices - Git and Github - VsCode - Pycharm - IntelliJ - Eclipse - DevC++ - Replit
+
+## Soft Skills
+- Resilience
+- Good mood
+- Teach and Learn
+- Proactivity
+- Ability to work under pressure
+- Interpersonal comunication
    
  ## 💻 My Website Portifolio
   
