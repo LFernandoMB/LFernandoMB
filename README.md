@@ -23,7 +23,16 @@
      <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
 </div>
 
-<h1>Portfolio and Contacts:</h1>
+  ## 🎮🐍 Some Activities and Progress
+  ![Snake animation](https://github.com/LFernandoMB/LFernandoMB/blob/output/github-contribution-grid-snake.svg)
+   
+ ## 💻 My Website Portifolio
+  
+ <a href="https://lfernandomb.github.io/Portifolio/">🖱️ Click Here and access!</a>
+  ### 👁️ Overview
+  ![Init](https://user-images.githubusercontent.com/91624923/210295144-4bc824ec-014f-487d-a57f-8d54f1d269f6.gif)
+  
+  ## 📧📱 Contacts 
   
 <div  align="center"> 
     <a href="https://www.instagram.com/l.fernandoof/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
@@ -31,21 +40,5 @@
     <a href="https://lfernandomb.github.io/Portifolio/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=whitee" target="_blank"></a>
     <a href="mailto:l.fernandomb7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
 </div>
- 
-  
-  ![Snake animation](https://github.com/LFernandoMB/LFernandoMB/blob/output/github-contribution-grid-snake.svg)
- 
-  ## 
-  
- <h1> Some of the tools I use and have used. Simply passionate about technology 🥰 🤖 🧑‍💻 </h1> 
 
-![banner-01](https://user-images.githubusercontent.com/91624923/150597971-1a7ae1f1-521b-4afd-b15c-33422d924204.jpg)
-  
- <h1> Here are the people who make me work harder and harder!! Helped me get here and help me go further and further! </h1>
-
-![about_04](https://user-images.githubusercontent.com/91624923/150598806-374d7404-d0c3-4cb5-9053-4db69244f805.jpg)  
-  
- <h1> My Website Portifolio 💻 </h1> 
-  
- <a href="https://lfernandomb.github.io/Portifolio/">Click Here!</a>
   
